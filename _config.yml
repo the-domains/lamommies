@@ -1,19 +1,4 @@
-name: lamommies
-favicon: null
-layout_spectrum: 0.06539612310007215
 typography_spectrum: 0.11904025264084339
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#FF6700'
@@ -25,4 +10,20 @@ color:
   lightness: 0.6098762014880776
   saturation: 0.8893326581455767
   rhythmicContrast: 0.75166529067792
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.06539612310007215
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: lamommies
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+description: 'A support group for moms. '
 purpose: []
